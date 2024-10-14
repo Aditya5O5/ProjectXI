@@ -1,0 +1,39 @@
+Symptoms = sore throat,runny nose,sneezing,cough,
+Name = Common Cold
+Treatment = Take rest,Drink plenty of fluids,Take paracetamol to relieve high temperature and aches,Try menthol sweets
+
+Symptoms = coughing,wheezing,chest tightness,breathlessness,
+Name = Asthma
+Treatment = Reliever Inhaler (no permanent cure)
+
+Symptoms = joint pain,tender joints,red skin,muscle weakness,
+Name = Arthritis
+Treatment = NSAIDs,Corticosteroids,Regular exercise,physiotherapy
+
+Symptoms = eye inflammation,red eyes,itching eyes,sticky pus,
+Name = Conjunctivitis
+Treatment = antihistamines(Allergic)/home remedies(Irritant)
+
+Symptoms = thirsty,dry mouth,tiredness,dark smelling urine,
+Name = Dehydration
+Treatment = Drink plenty of  fluids like water,juice etc.
+
+Symptoms = very thirsty,frequent urination,tiredness,slow healing wounds,
+Name = Diabetes
+Treatment = Eat healthy food,Exercise regularly,Insulin injection(only for Type 1 diabetes patients)
+
+Symptoms = central chest pain,rapid heart beat,unconsciousness,nausea,
+Name = Heart Attack
+Treatment = Anti platelet therapy,Coronary angioplasty,morphine,reperfusion treatment,thrombolysis
+
+Symptoms = blocked fallopian tubes,no ovulation,no sperm,
+Name = Infertility
+Treatment = Quit smoking(both passive and active),stop alcohol consumption,seek professional medical help(It's serious)
+
+Symptoms = runny nose,sneezing,appetite loss,grey spots in mouth,
+Name = Measles
+Treatment = Take paracetamol or ibuprofen,Be hydrated,Reduce contact with light,Clean your eyes with damp cotton wool
+
+Symptoms = painful swelling under ears,headaches,dry mouth,high temperatures,
+Name = Mumps
+Treatment = Take pain relief drugs,Get plenty of rest,Stay hydrated,Apply warm compress to swollen glands to reduce pain,Eat less chewy foods
